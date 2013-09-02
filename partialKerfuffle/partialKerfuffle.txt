@@ -1,0 +1,121 @@
+PARTIAL KERFUFFLE Rev 2
+
+Table of Contents
+1 Overview
+2 Materials
+3 Definitions
+4 Set up
+5 Turn Phases
+	5.1 Overview
+	5.2 Upkeep Phase
+	5.3 Purchasing Phase
+	5.4 Strategic Map Phase
+	5.5 Battle Phase
+		5.5.1 Tactical Board
+		5.5.2 Probabilistic Resolution
+6 End Conditions
+	6.1 Win Conditions
+	6.2 Loss Conditions
+7 Clause of Randomness
+8 Variations
+
+
+1 Overview
+Partial Kerfuffle is intended to be a game that combines the strategic plotting that comes with being a strategic / political leader and the tactical tension that comes with being a battlefield commander. Players take on the role of the leaders of a map appropriate faction (kingdoms are to kings as cities are to gangs) and take turns making moves on any map, be it a city divided into districts or a country divided into provinces. If players clash, they take the battle to the chess board. Who will accomplish their objectives? All will try. The rest is chaos, also known as history. 
+
+2 Materials
+To play a game of Partial Kerfuffle, you will need
+1) 2 - 6 players
+2) A printed map of a region divided into provinces*
+3) Lots of coins (be sure to keep track of whose are whose) for army composition on the strategic map
+4) Lots of scratch paper for banners, generals, kings, and queens
+5) 1 western chess set
+6) Pens (of varying colors, if desired)
+7) A small deck of objectives*
+
+3 Definitions
+First, the lingo.
+	3.1 Strategic Map
+	Map of the world where strategic game takes place. This holds provinces, capitals, territories, castles, and armies.
+	3.2 Tactical Board
+		Board where battles are fought. A western chess board suffices.
+	3.3 Province
+		A division of space on the strategic map.
+	3.4 Capital
+		A player's primary controlled province.
+		Capitals both generate money and serve as a spawn point for army recruitment.
+		Chosen at the beginning of the game.		
+	3.5 Territory
+		A province that lies adjacent to a player's army.
+		Territories generate money for the army's owner.
+			Exception: No money is generated if the territory is owned by or adjacent to a hostile army.
+	3.6 Castle
+		A province that serves as a spawn point for army recruitment.
+		Castles can be occupied by any player.
+		Chosen at the beginning of the game.
+	3.7 King
+		A faction's head of state.
+		Primarily placed on the strategic map (represented by a square of paper), a king may also join an army, gaining the ability to lead troops around the strategic map and participate in battles. 
+		If a king is killed, it is permanently removed from the game.
+	3.8 Queen
+		A faction's secondary head of state.
+		Primarily placed on the strategic map (represented by a square of paper), a queen may also join an army, gaining the ability to lead troops around the strategic map and participate in battles.
+		If a queen is killed, it is permanently removed from the game.
+	3.9 Army
+		Any collection of military units, including and limited to rooks, bishops, knights, and pawns.
+		Must be led by a king, queen, or general to move around the strategic map.
+		Armies without a leading king, queen, or general must remain stationary.
+		At most, a single army may contain 4 pawns, 3 special units (rooks, bishops, knights) in any combination, a king, and a queen.
+	3.10 General
+		Military commander that, when attached to an army, allows that army to move around the strategic map.
+		The general does not participate in any battles (stays behind in the camp). 
+		At most, a player may control 5 generals.
+	3.11 Rook
+		Traditional rook in the western chess sense.
+		Represented on the strategic map with a quarter.
+	3.12 Bishop
+		Traditional bishop in the western chess sense.
+		Represented on the strategic map with a nickel.
+	3.13 Knight
+		Traditional knight in the western chess sense.
+		Represented on the strategic map with a dime.
+	3.14 Pawn
+		Traditional pawn in the western chess sense.
+		Represented on the strategic map with a penny.
+	3.15 Prisoner
+		A military unit that has fallen under control of a player other than its original owner.
+		See 5.5.2 Tactical Board for what to do with and how to obtain prisoners.
+	3.16 Conquer
+		To remove the both the king and queen of a player from the strategic map.
+		By extension, to remove a player from the game.
+
+4 Set up
+	4.1 Overview
+		Before a game of Partial Kerfuffle begins, three things must be set up for each player. Each player must customize their faction banner, choose a starting location and starting armies, and draw an objective card.
+	4.2 Faction customization
+	4.3 Starting location
+	4.4 Starting armies
+	4.5 Objective cards
+
+5 Turn Phases
+	5.1 Overview
+	
+	
+	5.2 Upkeep Phase
+	
+	
+	5.3 Purchasing Phase
+	
+	
+	5.4 Strategic Map Phase
+	
+	
+	5.5 Battle Phase
+		5.5.1 Overview 
+		5.5.2 Tactical Board
+		5.5.3 Probabilistic Resolution
+6 End Conditions
+	6.1 Win Conditions
+	6.2 Loss Conditions
+7 Clause of Randomness
+8 Variations
