@@ -19,103 +19,257 @@ Table of Contents
 7 Clause of Randomness
 8 Variations
 
-
 1 Overview
 Partial Kerfuffle is intended to be a game that combines the strategic plotting that comes with being a strategic / political leader and the tactical tension that comes with being a battlefield commander. Players take on the role of the leaders of a map appropriate faction (kingdoms are to kings as cities are to gangs) and take turns making moves on any map, be it a city divided into districts or a country divided into provinces. If players clash, they take the battle to the chess board. Who will accomplish their objectives? All will try. The rest is chaos, also known as history. 
+
+Occasionally throughout this document, you will see an asterisk * next to some lines. This means that art assets may be used here.
 
 2 Materials
 To play a game of Partial Kerfuffle, you will need
 1) 2 - 6 players
 2) A printed map of a region divided into provinces*
-3) Lots of coins (be sure to keep track of whose are whose) for army composition on the strategic map
-4) Lots of scratch paper for banners, generals, kings, and queens
+3) Lots of coins (be sure to keep track of whose are whose) for army composition on the strategic map*
+4) Lots of scratch paper for banners, generals, kings, and queens*
 5) 1 western chess set
 6) Pens (of varying colors, if desired)
 7) A small deck of objectives*
 
 3 Definitions
 First, the lingo.
-	3.1 Strategic Map
-	Map of the world where strategic game takes place. This holds provinces, capitals, territories, castles, and armies.
-	3.2 Tactical Board
+	Strategic Map
+		Map of the world where strategic game takes place. This holds provinces, capitals, territories, castles, and armies.
+	Tactical Board
 		Board where battles are fought. A western chess board suffices.
-	3.3 Province
+	Province
 		A division of space on the strategic map.
-	3.4 Capital
+	Capital
 		A player's primary controlled province.
 		Capitals both generate money and serve as a spawn point for army recruitment.
-		Chosen at the beginning of the game.		
-	3.5 Territory
+		Chosen at the beginning of the game and persists throughout.
+	Territory
 		A province that lies adjacent to a player's army.
 		Territories generate money for the army's owner.
-			Exception: No money is generated if the territory is owned by or adjacent to a hostile army.
-	3.6 Castle
+		Exception: No money is generated if the territory is owned by or adjacent to a hostile army.
+	Castle
 		A province that serves as a spawn point for army recruitment.
 		Castles can be occupied by any player.
-		Chosen at the beginning of the game.
-	3.7 King
+		Chosen at the beginning of the game and persists throughout.
+	King
 		A faction's head of state.
 		Primarily placed on the strategic map (represented by a square of paper), a king may also join an army, gaining the ability to lead troops around the strategic map and participate in battles. 
 		If a king is killed, it is permanently removed from the game.
-	3.8 Queen
+	Queen
 		A faction's secondary head of state.
 		Primarily placed on the strategic map (represented by a square of paper), a queen may also join an army, gaining the ability to lead troops around the strategic map and participate in battles.
 		If a queen is killed, it is permanently removed from the game.
-	3.9 Army
+	Army
 		Any collection of military units, including and limited to rooks, bishops, knights, and pawns.
 		Must be led by a king, queen, or general to move around the strategic map.
 		Armies without a leading king, queen, or general must remain stationary.
 		At most, a single army may contain 4 pawns, 3 special units (rooks, bishops, knights) in any combination, a king, and a queen.
-	3.10 General
+	General
 		Military commander that, when attached to an army, allows that army to move around the strategic map.
 		The general does not participate in any battles (stays behind in the camp). 
 		At most, a player may control 5 generals.
-	3.11 Rook
+	Rook
 		Traditional rook in the western chess sense.
 		Represented on the strategic map with a quarter.
-	3.12 Bishop
+	Bishop
 		Traditional bishop in the western chess sense.
 		Represented on the strategic map with a nickel.
-	3.13 Knight
+	Knight
 		Traditional knight in the western chess sense.
 		Represented on the strategic map with a dime.
-	3.14 Pawn
+	Pawn
 		Traditional pawn in the western chess sense.
 		Represented on the strategic map with a penny.
-	3.15 Prisoner
+	Prisoner
 		A military unit that has fallen under control of a player other than its original owner.
 		See 5.5.2 Tactical Board for what to do with and how to obtain prisoners.
-	3.16 Conquer
+	Conquer
 		To remove the both the king and queen of a player from the strategic map.
 		By extension, to remove a player from the game.
+	Objective Card
+		A card drawn at the beginning detailing the win conditions for a player.
 
 4 Set up
 	4.1 Overview
-		Before a game of Partial Kerfuffle begins, three things must be set up for each player. Each player must customize their faction banner, choose a starting location and starting armies, and draw an objective card.
+		Before a game of Partial Kerfuffle begins, three things must be set up for each player. They are
+		1)	Each player must customize their faction banner
+		2)	Each player must choose a starting location and starting armies
+		3)	Each player must draw an objective card
 	4.2 Faction customization
-	4.3 Starting location
-	4.4 Starting armies
-	4.5 Objective cards
-
+		Each player draws a small insignia to distinguish their faction's armies as they move around the map
+        Note: Creativity is encouraged, but insignias may be as simple as a single color or shape.
+		Note: This must be done for each army under the players control.
+			Hint: good for passing time during other people's turns.
+	4.3 Strategic Map
+		4.3.1 Starting locations
+			Each player selects a province to use as his or her faction's base of operations.
+			Each player selects two neighboring territories as their starting territories. Each player's starting territories must be connected to that player's capital either directly or through the other territory.
+		4.3.2 Starting armies
+			Each player is allocated two pawns and a knight for each province under their control at the start of the game.
+		4.3.3 Castles
+			Each player selects one (1) province anywhere on the map to place a castle.
+	4.4 Objective cards
+		4.4.1 Description
+			Each player draws a card from the Objective Deck. This card defines the player's win condition. Upon drawing the card, the player may tell the other players their objective or keep it hidden. They are not bound to the truth :)
+			Note: Each player is allowed one redraw in the event of dissatisfaction. 
+		4.4.2 Objective Samples
+			1) Hold a particular province for 10 turns
+			2) Hoard a treasury of 100 gold
+			3) Conquer the player to your left / right / across from you
+			4) Hold a set of provinces for 7 turns
+			5) Hold all castles on the strategic map for 2 turns
+			6) Hold an enemy general from all opponents prisoner in your capital
 5 Turn Phases
 	5.1 Overview
-	
+		After set up, the following turn phases will compose each turn until the win conditions are met (see Article 6).
+		1) Upkeep Phase
+		2) Purchasing Phase
+		3) Strategic Map Phase
+		4) Battle Phase (if declared)
 	
 	5.2 Upkeep Phase
-	
-	
+		This phase sets up the monetary gains of each player. Calculated from revenue and expenditures
+		1) Money is calculated and distributed to the player
+			a) Territories generate 1 gold
+			b) Capitals generate 2 gold
+			c) Castles generate 0 gold
+		2) Upkeep money is deducted based on the following formulae
+			a) Deduct 2 gold for any king or queen outside the capital
+			b) Deduct 1 gold for any general outside the capital 
+			c) Deduct 3 gold for any occupied castle
+
 	5.3 Purchasing Phase
-	
-	
+		In the purchasing phase, players bolster their armies by purchasing new troops
+		1) Any purchased troops on the previous turn are distributed among the player's capital and controlled castle(s)
+		2) The player decides what troops to buy with available treasury
+		3) Prices
+			a) Pawn - 1 gold
+			b) Knight - 2 gold
+			c) Bishop - 2 gold
+			d) Rook - 4 gold
+			e) General - 10 gold
+		4) Total price deducted from player's treasury
+		5) The player collects the strategic map representations of their troops to be placed on the next turn's Purchasing Phase
+
 	5.4 Strategic Map Phase
-	
+		In the strategic map phase, players move around armies, adjust territories, and interact with other players. 
+		1) Armies led by a king, queen, or general may be moved within a range of 1 province
+		2) Battles are declared
+			a) When a player's army enters a territory occupied by a hostile player's army, a battle challenge is issued
+			b) The defending player may do battle or retreat
+				i)  Accept
+				See Article 5.5
+				ii) Retreat
+				Defending player moves to an adjacent friendly province.
+				This may be done once per army per strategic map phase.
+		3) Deals with other players may be discussed at this time
+			Common deals include
+			a) Alliances
+			b) Prisoner exchange
+			c) Money lending
+			d) Declarations of war
+			e) Betrayals
 	
 	5.5 Battle Phase
-		5.5.1 Overview 
+		5.5.1 Overview
+			Once a battle challenge is issued, the conflict must be resolved. The battle may play out two ways to be decided by the defending player: First, the two armies may play out the battle on a chess board with army compositions consistent with that of the strategic map. Second, the outcome of the battle may be determined by a probabilistic betting mechanic. The procedures and rules for both options are detailed below.
+			
+			Note: If the former takes too long and people get bored, maybe mandate the latter
 		5.5.2 Tactical Board
-		5.5.3 Probabilistic Resolution
+			5.5.2.1 Procedure
+				1) The defending player sets up a defensive position on the closest 3 rows on the tactical board.
+				2) The attacking player sets up an offensive position on the closest 3 rows on the tactical board.
+				3) The battle commences
+					a) Each player takes turns moving a piece
+					b) Each piece moves like in western chess
+					c) The attacking player moves first
+				4) Continues until
+					a) An army is destroyed
+					b) An army completely retreats 
+						See 5.5.2.2.1 [Note: Holy crap. Seriously, past self?] Retreating
+				5) Aftermath
+					a) Attacker victory
+						Attacking army occupies province. Defending army moves to an adjacent friendly province (if surviving)
+					b) Defender victory
+						Defending army remains in province. Attacking army moves to an adjacent friendly province (if surviving)
+					c) Prisoner resolution (see 5.5.2.2.2 Prisoner Resolution)
+						Prisoners captured during the battle may be dealt with immediately after the battle
+			5.5.2.2 Details
+				5.5.2.2.1 Retreating
+					During a tactical board battle, either player may declare to enter retreat mode to save all or part of an army. Here's how that works.
+					1) Any player, at any time, declares a retreat
+					2) Once a retreat is declared, all of the units under their control must move backwards
+					3) Outcomes
+						a) A piece moves off the board from the commanding player's side
+							It has successfully retreated and survives on the strategic map
+						b) A piece is captured
+							It is taken prisoner by the other player
+					4) Special case
+						A general may be taken prisoner if all units in that general's army have been taken prisoner or killed at any point in the battle
+
+				5.5.2.2.2 Prisoner Resolution
+					Prisoners (if applicable) may, in this stage, be
+					1)  Ransomed
+						a) The two relevant players decide price
+						b) Price is limitless: Money to favors
+						c) If accepted, ransomed troops return to the highest ranking piece (king or queen) of the defeated army
+					2) Executed
+						a) Prisoners removed from the game as though they were killed in the battle
+					3) Recruited
+						a) Flip a coin
+						b) Outcomes
+							i)Heads
+								Winning player selects half of the held prisoners to be absorbed into his or her control
+							ii) Tails
+								The prisoners refuse and must be executed by default
+		5.5.3 Probabilistic Betting
+			Another way to resolve battles relies on chance. A probabilistic betting game resolves battles faster.
+			5.5.3.1 Procedure
+				1) The two involved players are allocated the involved armies in chess piece representation
+				2) Each player selects a unit of their army to "bet"
+				3) Dice are rolled to determine which player's bet survives that flip
+				4) Number of dice varies based on unit type
+					a) Pawn - 1 die
+					b) Special (knight, rook, bishop) - 2 dice
+					c) Queen - 3 dice
+				5) Repeat steps 2 and 3 until either
+					a) All units in an army are killed
+					b) A player chooses to retreat
+			5.5.3.2 Notes
+				1) The aftermath of a battle is treated in the same way as described in Article IX: Tactical Board Phase
+				2) No prisoners may be captured in this battle resolution method
 6 End Conditions
 	6.1 Win Conditions
+		The wars and power plays continue until any number of players achieve x of the following objectives
+		1) Victory events
+			a) Hegemony - Occupy 2/3 of the map's provinces
+			b) Unification - Conquer or receive surrenders from all other players
+			c) Specific game objective - Fulfill the objective that was given to you at the beginning of the game
+		2) Multiple Objectives
+			a) Let x = number of objectives completed before game is done; Let N = number of players
+			b) x = N / 2 (rounding down)
+			c) Implication: Players in larger games are encouraged to cooperate, or act independently. Depending on what's... convenient
 	6.2 Loss Conditions
+		So you've been conquered. Here's what the Partial Kerfuffle afterlife looks like. Upon being conquered,
+		1) The player is removed from the game
+		2) The game continues until victory conditions are met (see Article 6.1)
+		3) If the conquered player yet fields troops at the time of conquering, a coin is tossed
+			a) Heads
+				i) Half of the conquered player's remaining troops belong to the conquering player
+				ii) The rest are removed from the strategic map as though they were killed in battle
+				iii) The conquering player selects
+			b) Tails
+				i) All of the conquered player's remaining toops remain in their last positions until they are
+					a) bought during the strategic map phase - Standard rates apply
+					b) conquered during the tactical board phase - Their previous owner (the conquered player) may command them during these battles
 7 Clause of Randomness
+	All other actions of play are left purposefully unaddressed. The players are encouraged to get creative: make deals, strategies, tactics and plots. Anything short of violent, illegal, and morally destructive activities are encouraged to add spice to gameplay.
 8 Variations
+	By default, this game was envisioned with a simple, one player one kingdom sort of format. However, others may also be interesting. For example,
+	1) Teams
+		Two or more players may be assigned to a kingdom. They must decide amongst themselves which strategies to execute and how to execute them. They must also collaborate to make the tough decisions as they arise...
+	2) Various maps
+		This is not limited to the default map. Any may be used: real, fictional, foreign, or domestic.
