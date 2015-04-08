@@ -1,0 +1,5 @@
+footman
+general 1-6
+king 1-6
+knight
+queen 1-6
